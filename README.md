@@ -71,7 +71,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 [-] Navigate to the cloned repository directory:
     ```
-    cd TermuX-Custom
+    cd TermuX
     ```
 
 [-] Add execute permissions to all files in the directory:
@@ -86,7 +86,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/nowayout876/TermuX && cd TermuX-Custom && chmod +x * && bash setup.sh 
 ```
 ## Copyright Notice
 
