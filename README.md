@@ -1,12 +1,12 @@
 <h1 align="center">TermuX-Custom</h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
+  <img src="https://img.shields.io/github/stars/nowayout876/TermuX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/nowayout876/TermuX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/license/nowayout876/TermuX?style=for-the-badge&color=blue"><br>
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-Unknown-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
@@ -14,7 +14,7 @@
 ## Description
 TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-Custom/count.svg) 
+**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX/count.svg) 
 > **Maintained?**: Yes, This repository is Maintained and You will get Updates Regularly!
 
 # About Termux
@@ -66,7 +66,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the TermuX-Custom6 repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/nowayout876/TermuX
     ```
 
 [-] Navigate to the cloned repository directory:
